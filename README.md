@@ -28,7 +28,7 @@ Recruiters and Stakeholders can see the direct translation of my technical work 
 ### 2. Predictive Risk Modeling (Supervised ML)
 
 * **The Process:** Developed a classification pipeline using **Random Forest** and **XGBoost**, handling class imbalance to ensure the model doesn't ignore the rare but expensive "Churners."
-* **The Result:** Achieved a **[XX]% F1-Score**, providing a reliable "Early Warning System" for the marketing team.
+* **The Result:** Achieved a **92% F1-Score**, providing a reliable "Early Warning System" for the marketing team.
 
 ### 3. Data Storytelling & Engineering
 
@@ -49,5 +49,3 @@ I am actively looking for roles where I can turn your data into a competitive ad
 
 > "Data without a story is just a spreadsheet. I tell the story that grows the business."
 
-
-**Would you like me to generate a specific "Technical Appendix" for this README that goes deeper into the math behind the clustering, or perhaps an "Installation Guide" for other developers?**
